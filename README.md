@@ -16,4 +16,4 @@ Add all your Domains ON A NEW LINE to the hostnames.txt file.
 
 To make this script work on Linux you have to install Powershell. 
 
-Installation Instructions for Debian (Instructions are in german): https://docs.microsoft.com/de-de/powershell/scripting/install/install-debian?view=powershell-7.2
+Installation Instructions for Debian (Instructions are in German!): https://docs.microsoft.com/de-de/powershell/scripting/install/install-debian?view=powershell-7.2
