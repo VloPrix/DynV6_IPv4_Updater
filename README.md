@@ -12,3 +12,8 @@ Add all your Domains ON A NEW LINE to the hostnames.txt file.
 2. Extract the contents
 3. Write your domains or domain in the hostnames.txt file. All Hostnames must be on a new line!
 4. Execute the file with the token as a parameter (DynV6_IPv4_Updater.ps1 "token") or just start the script without a parameter (It will ask you for the Token if you have not given one as a parameter)
+
+
+To make this script work on Linux you have to install Powershell. 
+
+Installation Instructions for Debian (Instructions are in german): https://docs.microsoft.com/de-de/powershell/scripting/install/install-debian?view=powershell-7.2
