@@ -8,3 +8,6 @@ Add all your Domains ON A NEW LINE to the hostnames.txt file.
 
 
 ## Instructions
+1. Download the Zip to any folder
+2. Extract the contents
+3. write
