@@ -7,4 +7,4 @@ Exchange the "token" in the Script with the Token you got from dynv6.com. The HT
 Add all your Domains ON A NEW LINE to the hostnames.txt file.
 
 
-#Instructions
+# Instructions
