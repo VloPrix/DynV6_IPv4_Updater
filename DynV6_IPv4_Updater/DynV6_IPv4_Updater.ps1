@@ -10,7 +10,7 @@ $logresult = Test-Path ".\output.log"
 #if the size of output.log exceeds 20 KB, output.log gets renamed to output.log.2. If a output.log.2 is already present, it will be deleted
 if ($logresult -eq "True") {
     $outputsize = (Get-ChildItem -Path .\output.log).Length/1KB
-    if ($outputsize -ge 20){
+    if ($outputsize -ge 50){
     
         $result = Test-Path ".\output.log.2"
         if ($result -eq "True") {
