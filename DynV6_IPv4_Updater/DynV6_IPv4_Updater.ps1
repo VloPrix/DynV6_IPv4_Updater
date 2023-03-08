@@ -42,7 +42,7 @@ function createRequest {
 }
 
 
-#Checks if the value of the token variable is zero. If it is zero it will ask for the token.
+#Checks if the value of the token variable is null. If it is null it will ask for the token.
 if ($token -eq $null) {
     Write-Host "No Token given as Parameter. Please paste your token below."
     $token = Read-Host "Token: " 
